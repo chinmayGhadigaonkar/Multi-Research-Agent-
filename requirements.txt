@@ -8,6 +8,8 @@ langchain-openai>=0.1.0
 openai>=1.30.0
 
 langchain-mistrala
+streamlit
+
     
 # Tavily Search Tool
 tavily-python>=0.3.0
